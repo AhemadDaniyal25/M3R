@@ -1,0 +1,26 @@
+﻿# Python / env
+venv/
+env/
+.venv/
+
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (keep folder but not files)
+data/
+!data/.gitkeep
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
